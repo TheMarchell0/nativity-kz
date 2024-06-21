@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/gilroy-regular.eot');
+    src: local('Gilroy Regular'), local('Gilroy-Regular'),
+    url('../fonts/gilroy-regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/gilroy-regular.woff2') format('woff2'),
+    url('../fonts/gilroy-regular.woff') format('woff'),
+    url('../fonts/gilroy-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/gilroy-regular.eot');
+    src: local('Gilroy Medium'), local('Gilroy-Medium'),
+    url('../fonts/gilroy-regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/gilroy-regular.woff2') format('woff2'),
+    url('../fonts/gilroy-regular.woff') format('woff'),
+    url('../fonts/gilroy-regular.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/gilroy-regular.eot');
+    src: local('GilroyBold'), local('Gilroy-Bold'),
+    url('../fonts/gilroy-regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/gilroy-regular.woff2') format('woff2'),
+    url('../fonts/gilroy-regular.woff') format('woff'),
+    url('../fonts/gilroy-regular.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
